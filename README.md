@@ -1,1 +1,2 @@
-# -Martelli-Montanari-PL
+# Martelli Montanari
+Algo Martelli Montanari. Prolog
